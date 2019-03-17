@@ -222,3 +222,41 @@ Cards (Tier 2 - 10 cards):
 * Mobilize: Ritual (2: any) - When you place golems, you may place one additional golem
 
 Cards (Tier 3 - 10 cards):
+
+
+## 3/16/19 - Overhauling tiles, scoring, rolling, etc
+
+>Thought Tiles (rebranded tiles)
+> * Thoughts (tiles) now have two sides: a nascent side and a realized side
+> * When a tile is placed on the field, it is placed nascent side up
+> * When a tile is placed in a player's tableau, it is placed realized side up
+> * Nascent side tile features:
+>   * Construct slots - 4-6 by tier; this is the number of constructs (dice) that can occupy a tile
+>   * Notion slots - 1-3 by tier; this is the number of notions (tokens) that can occupy the tile
+>     * Maybe: Abstraction slots - notion slots that start play blocked and must be abstracted to clear; give minor reward (+1 minor construct or something)
+>   * Thumbnail of Realized side - the graphic of the realized side's ability, in miniature
+>   * Reasoning glyphs - the same glyphs displayed on the realized side, in miniature
+> * Realized side tile features:
+>   * Ability - revise cantrip/sorcery/ritual here
+>   * Reasoning glyphs - two glyphs which allow tiles to be chained into a reasoning (set) when scored
+
+>Wizards
+> * Start with a specific complement of dice; "basic" wizard starts with 10 drudges, others have a mix?
+
+>Scoring
+> * Score a nascent tile you have a spire on by spending an action and glimmer equal to tier?
+> * Win after completing 3 sets?
+
+>Actions
+> * Manipulate - place a new tile adjacent to any existing tile, or move an unlocked tile you control adjacent to any other tile without an enemy spire
+> * Architect - choose a tile you control; place a structure, or pay glimmer equal to your spires to flip a structure
+> * Summon - choose constructs in your pool <= your spires, roll them, place them on locations you control; unplaceable non-glimmer constructs return to pool, or restrict by available slots?
+> * Reform - choose a tile you control; reroll all constructs there
+> * Command - pick tile
+>   * If unoccupied or friendly, pick an amount of constructs in adjacent tiles <= slots on tile, place them on tile, and roll if desired; if you don't have a well here, place a well
+>   * If hostile, pick an amount of constructs in adjacent tiles <= slots on tile, roll them in the ether; resolve combat.
+>     * If no remaining defenders, move remaining attackers to tile; if any, remove all enemy structures, then place a well 
+>     * Otherwise, move remaining attackers to adjacent tiles you control
+> * Claim - pick a tile on the field with your spire, spend glimmer equal to its cost, then score the tile
+> * Meditate - full turn action, pull any constructs and structures back to your pool, gain 1 drudge for each of your spires
+
