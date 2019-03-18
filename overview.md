@@ -225,14 +225,14 @@ Cards (Tier 3 - 10 cards):
 
 
 ## 3/16/19 - Overhauling tiles, scoring, rolling, etc
-
+primordium, material and ethereal sides?
 >Thought Tiles (rebranded tiles)
 > * Thoughts (tiles) now have two sides: a nascent side and a realized side
 > * When a tile is placed on the field, it is placed nascent side up
 > * When a tile is placed in a player's tableau, it is placed realized side up
 > * Nascent side tile features:
->   * Construct slots - 4-6 by tier; this is the number of constructs (dice) that can occupy a tile
->   * Notion slots - 1-3 by tier; this is the number of notions (tokens) that can occupy the tile
+>   * Construct slots - 4/6/8 by tier; this is the number of constructs (dice) that can occupy a tile
+>   * Notion slots - Either 1 or 1/2/3 by tier; this is the number of notions (tokens) that can occupy the tile
 >     * Maybe: Abstraction slots - notion slots that start play blocked and must be abstracted to clear; give minor reward (+1 minor construct or something)
 >   * Thumbnail of Realized side - the graphic of the realized side's ability, in miniature
 >   * Reasoning glyphs - the same glyphs displayed on the realized side, in miniature
@@ -242,6 +242,7 @@ Cards (Tier 3 - 10 cards):
 
 >Wizards
 > * Start with a specific complement of dice; "basic" wizard starts with 10 drudges, others have a mix?
+> * Wizards can have unique structures and sorcery/ritual slots
 
 >Scoring
 > * Score a nascent tile you have a spire on by spending an action and glimmer equal to tier?
@@ -251,12 +252,54 @@ Cards (Tier 3 - 10 cards):
 > * Manipulate - place a new tile adjacent to any existing tile, or move an unlocked tile you control adjacent to any other tile without an enemy spire
 > * Architect - choose a tile you control; place a structure, or pay glimmer equal to your spires to flip a structure
 > * Summon - choose constructs in your pool <= your spires, roll them, place them on locations you control; unplaceable non-glimmer constructs return to pool, or restrict by available slots?
-> * Reform - choose a tile you control; reroll all constructs there
 > * Command - pick tile
->   * If unoccupied or friendly, pick an amount of constructs in adjacent tiles <= slots on tile, place them on tile, and roll if desired; if you don't have a well here, place a well
+>   * If unoccupied or friendly, pick an amount of constructs in adjacent tiles <= slots on tile, place them on tile; roll any constructs on tile if desired; if you don't have a well here, place a well (can use to just reroll constructs on a tile)
 >   * If hostile, pick an amount of constructs in adjacent tiles <= slots on tile, roll them in the ether; resolve combat.
 >     * If no remaining defenders, move remaining attackers to tile; if any, remove all enemy structures, then place a well 
 >     * Otherwise, move remaining attackers to adjacent tiles you control
 > * Claim - pick a tile on the field with your spire, spend glimmer equal to its cost, then score the tile
-> * Meditate - full turn action, pull any constructs and structures back to your pool, gain 1 drudge for each of your spires
+> * Invoke - place a construct from your pool on an open sorcery slot and resolve the sorcery, or place any number of constructs from your pool on open ritual slots
+> * Meditate - full turn action, move any constructs you control to your pool, return any extra wells and gain 1 drudge for each well you returned, unseal all tiles in your score area
 
+>Locations
+> * X - instant effect
+> * [] - sorcery slot
+> * () - ritual slot
+> * [] Take two actions
+> * [][] Deal 1 unblockable hit to up to two different tiles
+> * X Gain 2 drudges
+> * X Choose up to two drudges in your pool; reform them into centurions (cycles, shield+sword)
+> * X Choose up to two drudges in your pool; reform them into gladiators (hammers, double swords)
+> * X Choose up to two drudges in your pool; reform them into sicarium (bullseye)
+> * X Gain Haruspex (hexes, sparks)
+> * X Gain Janus (2x glimmers, shields)
+> * X Gain Titan (hammers and shields)
+> * [][] Move a tile next to a tile with an enemy spire
+> * () When placing a new tile, choose from the top three tiles
+> * () When you meditate, swap the locations of any of your structures
+> * ()() When you Summon, place up to two additional constructs
+> * [] Move a tile, then set the faces of the constructs on it to any non-glimmer sides
+> * [][] Move an unlocked tile an enemy controls adjacent to any other tile
+> * [] Flip a structure (paying no glimmer)
+> * [][] Move to a hostile tile, and gain 2 swords for the combat
+> * X Place up to 3 wells
+> * X Choose a tile you control and a tile an enemy controls; return all constructs on them to their pools
+> * X Seal two tiles in an enemy's score area
+
+>Faces
+> * Sword - deal one hit
+> * Shield - block one hit
+> * Hammer - deal one unblockable hit
+> * Bullseye - deal one hit to construct of your choice after battle
+> * Cycle - reroll one die
+> * Spark - return one of your constructs to your pool
+> * Hex - reroll one defending die
+
+>Dice
+> * Drudge (30) - [Sword][Sword][Sword][Shield][Shield]
+> * Centurion (4) - [Cycle + Sword][Cycle + Sword][Cycle + Shield][Sword + Shield][Sword + Shield]
+> * Gladiator (4) - [Hammer + Shield][Hammer + Shield][Hammer + Shield][Sword x2][Shield x2]
+> * Sicarius (4) - [Bullseye][Bullseye][Bullseye][Sword x2][Sword x2]
+> * Haruspex (1) - [Hex x2][Hex x2][Hex + Spark][Sword x2 + Hex][Spark + Spark]
+> * Janus (1) - [Second Face][Shield x3][Shield x3][Cycle x2][Cycle x2]
+> * Titan (1) - [Hammer x2][Hammer x2][Hammer x2][Sword x3][Sword x3]
