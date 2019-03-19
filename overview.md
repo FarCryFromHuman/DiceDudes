@@ -303,3 +303,63 @@ primordium, material and ethereal sides?
 > * Haruspex (1) - [Hex x2][Hex x2][Hex + Spark][Sword x2 + Hex][Spark + Spark]
 > * Janus (1) - [Second Face][Shield x3][Shield x3][Cycle x2][Cycle x2]
 > * Titan (1) - [Hammer x2][Hammer x2][Hammer x2][Sword x3][Sword x3]
+
+## 3/18/19 - redoing actions and design of structures, notion of army, etc
+
+>Actions - take 2
+> * Manifest - draw a new tile, choose a side, and place it adjacent to any existing tile
+> * Contest - choose your tile and an adjacent enemy tile; battle for it using your armies *(you both roll your full armies, then choose a number of dice based on command level; deal hits and move killed dice to pools, most dice left is winner with ties to attacker -- remove all pillars belonging to the loser from the tile)*
+> * Invoke - place a construct from your pool on your cantrip slot; resolve the effect -OR- place any number of constructs on a single set of your ritual slots *(your player board has cantrip slots that place pillars; any amount of pillars on a tile makes it your tile -- your player board has cantrip slots that move constructs from your pool to your army, covered by pillars -- any slots on your tiles are your slots)*
+> * Claim - *once per turn only* choose your tile that is unlocked and in a pattern and place it in your score area; return all pillars to their locations, moving constructs to your pool if necessary *(a tile is unlocked if removing it will not separate the landmass -- a tile is in a pattern when it is adjacent to at least two tiles sharing a glpyh -- you win when you have three patterns in your score area)*
+> * Meditate - full turn action; place any of your constructs in your pool and unseal all tiles in your score area; if you have no pillars on the board, Manifest a tile and fill it with your pillars 
+
+>Player Board
+> * Pool - all your unused constructs exist in your pool; when your construct is killed it is placed in your pool
+> * Army - effects that place dice in your army place them here; these dice are rolled when you attack or defend during a contest
+> * Slots - Some slots are covered by pillars at the start of the game; use Invoke to place constructs in slots and activate the associated abilities
+>   * Common slots:
+>   * [] Place a pillar on an open pillar slot on your tile or a neutral tile adjacent to your tile
+>   * [] Move constructs from your pool to your army
+>   * [] Move your tile adjacent to another of your tiles or a neutral tile
+>   * () Increase command
+>   * Unique abilities - move tiles, flip tiles, deal hits, etc
+
+>Magic
+> * X - Sorcery: resolve this ability when the tile is claimed
+> * () - Ritual: when all slots are full, the effect is active for the controlling player
+> * [] - Cantrip: each time a slot is filled, resolve the effect
+> * O - Aura: effect is active for the controlling player
+
+>Tiles
+> * Two-sided; each side is unique
+> * Name: a unique name for this side
+> * Magic: a cantrip, ritual, sorcery or aura
+> * Glyphs: two symbols from a set of three
+
+>Dice
+> * Six-sided, all with one face side
+> * When rolled, any dice showing face side may be immediately set to any other side
+> * When kept, resolve dice
+> * Only basic dice and unique dice; every other effect that gives dice should give unique dice
+
+>Prototype Magic
+> * X - Invoke a cantrip using a construct from an enemy pool
+> * [] Take 2 actions
+> * [][] Deal 2 hits to an enemy army
+> * X Gain 3 basic constructs
+> * () Gain Haruspex [Hex x2][Hex + Spark][Hex + Spark][Spark x2][Sword x2]
+> * () Gain Janus [Second Face][Sword x2][Shield x2][Sword + Shield][Sword + Shield]
+> * () Gain Titan [Shield x3][Shield x2 + Sword][Shield + Sword x2][Hammer x2][Hammer x2]
+> * () Gain Centurion [Command x2][Sword x3][Command + Cycle][Command + Cycle][Cycle x2]
+> * () Gain Longinus [Sword x2][Sword x2][Sword + Bullseye][Bullseye x2][Bullseye x2]
+> * () Gain Faber [Pillar][Pillar][Tile][Tile][Shield x3]
+> * [][] Move a tile next to an enemy tile
+> * O When you Manipulate, draw 2 tiles and choose one
+> * O After you Meditate, you may collect the pillars on your board and place them in any open pillar slots on your board
+> * [] Move your tile, then return one pillar on an adjacent tile to its board
+> * [][] Move an unlocked tile an enemy controls adjacent to any other tile
+> * [] Flip a structure (paying no glimmer)
+> * [][] Move to a hostile tile, and gain 2 swords for the combat
+> * X Place up to 3 pillars
+> * [] Choose a your tile and an enemy tile; return all pillars on them to their boards
+> * [] Seal two tiles in an enemy's score area
