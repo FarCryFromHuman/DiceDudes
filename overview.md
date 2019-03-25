@@ -306,11 +306,11 @@ primordium, material and ethereal sides?
 
 ## 3/18/19 - redoing actions and design of structures, notion of army, etc
 
->Actions - take 2
+>Actions - take 3 (move these to cantrips, add an aura that clears them every turn)
 > * Manifest - draw a new tile, choose a side, and place it adjacent to any existing tile
 > * Contest - choose your tile and an adjacent enemy tile; battle for it using your armies *(you both roll your full armies, then choose a number of dice based on command level; deal hits and move killed dice to pools, most dice left is winner with ties to attacker -- remove all pillars belonging to the loser from the tile)*
 > * Invoke - place a construct from your pool on your cantrip slot; resolve the effect -OR- place any number of constructs on a single set of your ritual slots *(your player board has cantrip slots that place pillars; any amount of pillars on a tile makes it your tile -- your player board has cantrip slots that move constructs from your pool to your army, covered by pillars -- any slots on your tiles are your slots)*
-> * Claim - *once per turn only* choose your tile that is unlocked and in a pattern and place it in your score area; return all pillars to their locations, moving constructs to your pool if necessary *(a tile is unlocked if removing it will not separate the landmass -- a tile is in a pattern when it is adjacent to at least two tiles sharing a glpyh -- you win when you have three patterns in your score area)*
+> * Claim - *first action only* choose your tile that is unlocked and in a pattern and place it in your score area; return all pillars to their locations, moving constructs to your pool if necessary *(a tile is unlocked if removing it will not separate the landmass -- a tile is in a pattern when it is adjacent to at least two tiles sharing a glpyh -- you win when you have three patterns in your score area)*
 > * Meditate - full turn action; place any of your constructs in your pool and unseal all tiles in your score area; if you have no pillars on the board, Manifest a tile and fill it with your pillars 
 
 >Player Board
@@ -329,18 +329,31 @@ primordium, material and ethereal sides?
 > * () - Ritual: when all slots are full, the effect is active for the controlling player
 > * [] - Cantrip: each time a slot is filled, resolve the effect
 > * O - Aura: effect is active for the controlling player
+> * (*) or [*] - Pillar Slot: begins and can be blocked by a pillar
 
 >Tiles
 > * Two-sided; each side is unique
 > * Name: a unique name for this side
 > * Magic: a cantrip, ritual, sorcery or aura
-> * Glyphs: two symbols from a set of three
+> * Glyphs: zero to two symbols from a set of three (really powerful abilities have zero)
+> * Tiles can hold any number of pillars
 
 >Dice
 > * Six-sided, all with one face side
 > * When rolled, any dice showing face side may be immediately set to any other side
 > * When kept, resolve dice
 > * Only basic dice and unique dice; every other effect that gives dice should give unique dice
+> * Sword: deal 1 hit
+> * Shield: block 1 hit
+> * Hammer: deal 1 unblockable hit
+> * Bullseye: after battle, return 1 die from enemy's army
+> * Cycle: reroll one of your dice
+> * Hex: reroll an enemy's die
+> * Star: after battle, return one of your fighting dice to your army 
+> * Spark: after battle, return one die
+> * Pillar: after battle, place a pillar on your tile
+> * Tile: place a tile
+> * Seal: seal a tile
 
 >Prototype Magic
 > * X - Invoke a cantrip using a construct from an enemy pool
@@ -348,11 +361,12 @@ primordium, material and ethereal sides?
 > * [][] Deal 2 hits to an enemy army
 > * X Gain 3 basic constructs
 > * () Gain Haruspex [Hex x2][Hex + Spark][Hex + Spark][Spark x2][Sword x2]
-> * () Gain Janus [Second Face][Sword x2][Shield x2][Sword + Shield][Sword + Shield]
+> * () Gain Hydra [Second Face][Third Face][Sword x2][Shield x2][Sword + Shield]
 > * () Gain Titan [Shield x3][Shield x2 + Sword][Shield + Sword x2][Hammer x2][Hammer x2]
-> * () Gain Centurion [Command x2][Sword x3][Command + Cycle][Command + Cycle][Cycle x2]
+> * () Gain Centurion [Star x2][Sword x3][Star + Cycle][Star + Cycle][Cycle x2]
 > * () Gain Longinus [Sword x2][Sword x2][Sword + Bullseye][Bullseye x2][Bullseye x2]
-> * () Gain Faber [Pillar][Pillar][Tile][Tile][Shield x3]
+> * () Gain Faber [Pillar][Pillar][Pillar][Tile][Shield x3]
+> * () Gain 2x Gemini [2x Sword][2x Shield][Seal][Seal][Seal]
 > * [][] Move a tile next to an enemy tile
 > * O When you Manipulate, draw 2 tiles and choose one
 > * O After you Meditate, you may collect the pillars on your board and place them in any open pillar slots on your board
@@ -363,3 +377,71 @@ primordium, material and ethereal sides?
 > * X Place up to 3 pillars
 > * [] Choose a your tile and an enemy tile; return all pillars on them to their boards
 > * [] Seal two tiles in an enemy's score area
+
+Tile manipulation
+> * Qualities: 
+>    * Ownership: any/your/enemy/owned/not-your/not-enemy/not-owned
+>    * Adjacency: any/one/two/glpyh-a/glyph-b/glyph-c
+>    * Locked: locked/not-locked
+> * Place: place a new tile adjacent to tile
+> * Move: Move an unlocked tile next to another tile
+> * Swap: Rearrange tiles into any configuration that fits their combined starting locations
+> * Flip: Flip a tile over to its other side, replacing all items on it *(without activating cantrips -- can't be scored)*
+
+Default Wizard Abilities
+> * O At the start of your first turn, gain 5 constructs
+> * O On each turn, Invoke or Meditate
+> * O At the end of your turn, return first construct in pillar, place, army 
+> * [][][] Place your pillar on not-owned tile or your tile
+> * [][*][*] Place a new tile
+> * (*) +1 Command
+> * (*) +1 Command
+> * (*) +1 Command
+> * [][*][*] Move your tile adjacent to your tile
+> * [][*][*] Place up to 3 constructs in army, then you may battle
+> * [][*] Claim a tile in a pattern with your tiles
+
+Tile Abilities
+> * [][] Swap two tiles/()() In battle, +1 sword (2)
+> * [][] Move a tile/()() In battle, +1 shield (2)
+> * [] Flip a tile/[] Seal a tile (2)
+> * X Gain 3 constructs/X Destroy all armies (2)
+> * X Gain 3 constructs/X Return 3 constructs (2)
+> * O After you place constructs in army, place 1 more/Before you meditate, invoke once (1)
+> * [] Place a new tile, then place your pillar on it/() Pillars can be placed in these slots instead of your board (2 slots) (1)
+> * ()() +2 Command/()() Instead of returning constructs to your pool after battle, return to army (1)
+> * [] Return 2 other constructs to your pool/[] Place two pillars on your tile (1)
+> * () Control Hydra X Gain Hydra/() Control Titan X Gain Titan (1)
+> * () Control Longinus X Gain Longinus/() Control Centurion X Gain Centurion (1)
+> * O When you invoke on a ritual, you may place as many constructs as you want
+
+Battle
+> * Both players roll their armies, then keep dice up to command (can choose less, this is important)
+>   * Command base is player's pillars on and adjacent to contested tile
+>   * Modified by bonuses to command
+> * Dice abilities resolve simultaneously, with decision priority going to attacker
+> * Players take hits equal to opponent's swords - their shields
+> * Players remove dice equal to hits taken - remaining dice are returned to pools
+> * Defending tile loses pillars equal to left over hits from attacker
+
+Winning
+> * You win when you claim a tile and can make 2 patterns
+> * Patterns are 3 hexes adjacent to each other that share a glyph
+> * Each glyph on a scored tile can only be used in one pattern
+> * Every time a tile is scored, patterns can be rearranged
+
+### 3/23 - First Playtest (Emily)
+* Remove glyphs from Sorcery tiles, count as wild for board but no symbols when scored
+* Win on ONE set
+* Remove second claim cantrip slot
+* Add pillar lock to last place pillar slot
+* No more keep mechanic, choose dice from army up to command and roll
+* Change basic dice: [Shield] to [Sword]
+
+### 3/24 - Second Playtest (Matt)
+* Move is very powerful; should be 1 slot
+* +1 shield ritual could require 1 die; +1 sword is pretty perfect
+* When you claim a tile, must remove all pillars and dice
+* Draw tiles from bottom
+* 2 glyphs on less powerful effects, 1 on good, wild on very good
+* Game probably doesnt need first player advantage/penalty but stay aware
