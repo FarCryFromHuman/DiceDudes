@@ -101,3 +101,11 @@
 >* Gain [CONSTRUCT]: Take the corresponding construct from the supply and place it in your pool.
 >* Return [CONSTRUCT]: Take the corresponding construct from wherever it resides and place it in your pool *(or other area if specifically instructed).*
 
+>Dice Faces
+>* *(Dice can have multiple symbols on a single face; in this case resolve each in the order of your choosing when ordering is required)*
+>* Sword - Deals 1 hit
+>* Shield - Blocks 1 hit
+>* Hammer - Deals 1 unblockable hit; ignore one of your opponent's rolled shields *(Found on Titan)*
+>* Cycle - Reroll 1 other die before dealing and taking hits *(Found on Centurion)*
+>* Star - Gain +1 will for this battle; immediately roll one die from your army into the ether *(Found on Centurion)*
+>* Reticle - After battle, if this die is still in the ether, return one die of your choice in your opponent's army to their pool *(Found on Longinus)*
