@@ -6,7 +6,7 @@
 >I'm sure your mother is very proud.
 
 ## How to Win
->After you claim a tile, if you have a complete set of three tiles in your player area, you win the match.
+>After you claim a tile, if you have a complete set of three tiles in your player area, you win the game.
 
 ## Setup
 >1. Each player chooses a player board from the available boards, and places the board and all pillars *(for prototype: wooden meeples)* matching that board's color in front of them. Then, each player chooses a side of their board to play with. *(For your first game, we recommend all players use the Aspirant side of their player boards.)*
@@ -38,6 +38,8 @@
 >* Constructs can only exist in the supply, on player boards, in spell slots, and in the ether *(but only when in battle).*
 >* Constructs have a "face" side *(prototype: C)*, and 5 other sides showing an assortment of icons.
 >* A construct's currently displayed side is only relevant in battle, after being rolled.
+>* Some constructs are "unique"; they have a name and there is only one die representing this construct in the supply. They can be acquired by controlling and claiming their corresponding tiles.
+>* When an effect refers to "a construct," it normally means any construct. When an effect says to Gain a construct, you gain a basic construct unless otherwise specified by name.
 
 >Pillars
 >* Pillars are represented as wooden cylinders *(prototype: wooden meeples)* matching a player color.
