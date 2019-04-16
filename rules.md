@@ -88,6 +88,8 @@ Each player board hosts a number of zones and spells, and these are different ac
 
 Aspirant board sides are identical apart from color and always have the same two zones; the **pool** and the **fortress**. They also have a large aura describing their turn structure, a section containing a number of cantrips they may use on their turn, and a section containing a handful of rituals that provide them passive benefits when fully invoked. See the aspirant entry in the wizard's section in the rulebook for more details. 
 
+![Player Board Anatomy](https://imgur.com/J2o0Fhp.png)
+
 The **pool** and **fortress** are described below, as they appear on aspirant board sides and many named wizard board sides, along with **meditate**, an effect common to most wizards that typically allows them to sacrifice their turn to reorganize their power cubes.
 
 >POOL - The pool contains all a player's power cubes that are not currently in use. Whenever a player is ordered to invoke, they must place a cube from their pool to do so, and if they are out of cubes they may not take the invocation action. Whenenver a player **returns** a cube they own, they return it to their pool, unless otherwise specified.
@@ -100,6 +102,8 @@ The **pool** and **fortress** are described below, as they appear on aspirant bo
 The field is comprised of a dynamic assortment of tiles arranged around 2-4 **core** tiles. Tiles are **placed** from the stack adjacent to other tiles on the field, and are removed from the field and added to player areas when **claimed**. Typically, a player may only claim a tile when it is in a specific pattern, and they own all tiles in the pattern.
 
 >CORE TILES: There is one core tile per set, and therefore per player, in play at the start of the game. Core tiles are never owned, and cannot be claimed, removed, or manipulated in any way. Spells on core tiles are always owned by all players.
+
+![Tile Anatomy](https://imgur.com/e4VRGiN.png)
 
 >TILE TERMS:
 >* RUNES: Each set has 9 tiles with runes on them. Some tile sides may have two runes, while others have one. A tile side with two runes is considered to have both runes for purposes of claiming and for completing a winning set of three.
