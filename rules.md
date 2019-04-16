@@ -1,6 +1,6 @@
 # UNNAMED WIZARD GAME BLIND PLAYTEST RULES
 ## INTRODUCTION
-Welcome to Unnamed Wizard Game V2. You are an unnamed wizard fresh out of wizarding school, trying to make a name for yourself in a very competitive industry. You've chosen a very direct path; competition in The Harrowing as an Aspirant. The Harrowing is a battle of wits and wills against other wizards vying for a single prize; a name to call your own.
+Welcome to Unnamed Wizard Game V2. You are an unnamed wizard fresh out of wizarding school, trying to make a name for yourself in a very competitive industry. You've chosen a very direct path; competition in The Harrowing as an Aspirant. The Harrowing is a battle of wits and wills against other wizards vying for a single prize: a name to call your own.
 
 ## COMPONENTS
 #### 4 Player Boards
@@ -9,20 +9,20 @@ Welcome to Unnamed Wizard Game V2. You are an unnamed wizard fresh out of wizard
 * Each player board has a unique color matching a set of pillars
 #### 40 Focus Pillars
 * 4 sets of 10 wooden cylinders each, by color, referred to as **pillars**
-* Each color of pillar corresponds to a single player boar
-#### 60 Field Tiles
+* Each color of pillar corresponds to a single player board
+#### 40 Field Tiles
 * 4 sets of 10 cards each - referred to as tiles
 * Tiles are hexagonal and two-sided
 * Each set contains a core tile, 3 wild tiles, and 6 unique tiles
 * Tiles are marked with a numeral to denote which set they belong to *(see tile anatomy)
 #### 80 Power Cubes
 * Acrylic cubes in a number of colors, referred to as **power**
-* Colors have no significance - all cubes are treated the sam
+* Colors have no significance - all cubes are treated the same
 #### 10 Battle Dice
 * 10 custom, identical, acrylic dice
 
 ## HOW TO GET A NAME
-You are in this competition to win. Here is how you do it.
+You are in this competition to win. Here is how you do it:
 > After a player claims a tile, if that player has claimed any three tiles with matching runes, the game is over and that player wins.
 
 In long form, each player is looking to claim a set of three tiles with matching symbols (called runes). Once a single player has done so, that player's wizard wins The Harrowing, and is granted a name (or the wizard is already named and is just showing off). Claiming tiles is not a simple process, and players will be working directly against each other to squeeze out a victory.
@@ -90,9 +90,9 @@ Aspirant board sides are identical apart from color and always have the same two
 
 The **pool** and **fortress** are described below, as they appear on aspirant board sides and many named wizard board sides, along with **meditate**, an effect common to most wizards that typically allows them to sacrifice their turn to reorganize their power cubes.
 
->POOL - The pool contains all a player's power cubes that are not currently in use. Whenever a player is ordered to invoke, they must place a cube from their pool to do so, and if they are out of cubes they may not take the invocation action. Whenenver a player **returns** a cube they own, the return it to their pool, unless otherwise specified.
+>POOL - The pool contains all a player's power cubes that are not currently in use. Whenever a player is ordered to invoke, they must place a cube from their pool to do so, and if they are out of cubes they may not take the invocation action. Whenenver a player **returns** a cube they own, they return it to their pool, unless otherwise specified.
 
->FORTRESS - The fortress contains power cubes the player has committed for wizardly combat. They may not be used to invoke, and are commonly returned to a player's pool as they are destroyed in battle or during **meditation**.
+>FORTRESS - The fortress contains power cubes the player has committed for wizardly combat. They may not be used to invoke, and are commonly returned to a player's pool as they are destroyed in battle or optionally during **meditation**.
 
 >MEDITATE - Most wizards have an effect labeled **meditate**. The exact details of the effect may vary from wizard to wizard, but any effects owned by the active player that occur before or after **meditation** trigger from the resolution of the active player's **meditate** effect. If the active player has no meditate effect, they cannot trigger abilities associated with it.
 
@@ -121,13 +121,13 @@ There are a number of game effects that manipulate tiles.
 >* SEAL: Only **claimed** tiles can be sealed. When a tile is sealed, the player who owns it returns all power cubes and pillars on it and slides it partially underneath their player board. That player still owns that tile, but it is considered to have no runes or spells. When a tile is unsealed, slide it back out from underneath its owner's player board; it is now considered to have all its runes and spells once more.
 
 #### Battle
-Game effects may required the resolving player to battle. To resolve a battle, these steps must be followed, in order:
+Game effects may require the resolving player to battle. To resolve a battle, these steps must be followed, in order:
 >BATTLE  
->The resolving player is the considered the **attacker**.
+>The resolving player is considered the **attacker**.
 >1. The attacker chooses a tile on the field owned by any other player, and one of the players that owns it. That tile is considered the **battleground**, the chosen player is considered the **defender**, and both players are considered **combatants**.
 >2. Each combatant counts all the pillars they own on and adjacent to the battleground. This value is considered the combatant's **strength**.
->3. Each combatant takes power cubes from their fortresses and place them in front of their player boards up to their respective strength *(as many as possible - if a combatant has fewer cubes in their fortress than their power, they place all their cubes in front of their player board.)*
->4. The attacker takes a number of battle dice equal to the number of cubes they placed in front of their player board, and rolls them. If they have any rerolls, they may reroll any dice of their choice as many times as they have rerolls.
->5. The attacker returns cubes from the front of their player board up to the number of clashes rolled *(as many as possible)*. The defender returns cubes from the front of their player board up to the number of swords and clashes rolled *(as many as possible).* For each cube the defender could not return, they return a pillar from the battleground instead *(as many as possible).*
+>3. Each combatant takes as many power cubes as possible up to their strength from their fortress and places them in front of their player board.
+>4. The attacker takes a number of battle dice equal to the number of cubes they placed in front of their player board, to a maximum of ten, and rolls them. If they have any rerolls, they may reroll any dice of their choice as many times as they have rerolls.
+>5. The attacker returns one cube in front of their player board for each clash rolled. The defender returns one cube in front of their player board for each *hit and clash* rolled. For each cube the defender could not return, they return a pillar from the battleground instead.
 >6. Each player returns any cubes remaining in front of their player boards to their respective *fortresses* - not their pools.
 
