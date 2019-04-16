@@ -1,120 +1,133 @@
-## You Are a Wizard
->After years of grueling academics, painstaking experimentation, and deadly practicum, you have done it; you have graduated wizard academy. Unfortunately, no one cares. Only Named Wizards achieve notoriety, and you are a lowly Aspirant, Nameless and desperate to prove your worth. If you defeat enough of your fellow aspirants in The Meld, an ancient and popular wizarding tournament, you may gain the Name you so desire.
->
->Craft constructs and direct them in battle against your opponents as you shape and destroy the field with your magic. Invoke powerful sorceries, subversive cantrips, and subtle rituals to wrest victory from the unworthy.
->
->I'm sure your mother is very proud.
+# UNNAMED WIZARD GAME BLIND PLAYTEST RULES
+## INTRODUCTION
+Welcome to Unnamed Wizard Game V2. You are an unnamed wizard fresh out of wizarding school, trying to make a name for yourself in a very competitive industry. You've chosen a very direct path; competition in The Harrowing as an Aspirant. The Harrowing is a battle of wits and wills against other wizards vying for a single prize; a name to call your own.
 
-## How to Win
->After you claim a tile, if you have a complete set of three tiles in your player area, you win the game.
+## COMPONENTS
+#### 4 Player Boards
+* Foamcore player boards
+* Each board features a duplicate Aspirant (beginner) side and a unique, Named (advanced) side
+* Each player board has a unique color matching a set of pillars
+#### 40 Focus Pillars
+* 4 sets of 10 wooden cylinders each, by color, referred to as **pillars**
+* Each color of pillar corresponds to a single player boar
+#### 60 Field Tiles
+* 4 sets of 10 cards each - referred to as tiles
+* Tiles are hexagonal and two-sided
+* Each set contains a core tile, 3 wild tiles, and 6 unique tiles
+* Tiles are marked with a numeral to denote which set they belong to *(see tile anatomy)
+#### 80 Power Cubes
+* Acrylic cubes in a number of colors, referred to as **power**
+* Colors have no significance - all cubes are treated the sam
+#### 10 Battle Dice
+* 10 custom, identical, acrylic dice
 
-## Setup
->1. Each player chooses a player board from the available boards, and places the board and all foci *(for prototype: wooden meeples)* matching that board's color in front of them. Then, each player chooses a side of their board to play with. *(For your first game, we recommend all players use the Aspirant side of their player boards.)*
->2. Form the supply:
->    1. Shuffle the tiles and place them within reach of all players.
->    2. Collect all the basic constructs and place them within reach of all players.
->    3. Collect the unique constructs and set them aside near the basic constructs.
+## HOW TO GET A NAME
+You are in this competition to win. Here is how you do it.
+> After a player claims a tile, if that player has claimed any three tiles with matching runes, the game is over and that player wins.
 
-## Game Structure
->1. Select the first player randomly.
->2. Each player takes a full turn, then passes play to the player on their right.
->3. Repeat until the game ends, and a winner is declared.
+In long form, each player is looking to claim a set of three tiles with matching symbols (called runes). Once a single player has done so, that player's wizard wins The Harrowing, and is granted a name (or the wizard is already named and is just showing off). Claiming tiles is not a simple process, and players will be working directly against each other to squeeze out a victory.
 
-## Concepts and Components
->Play areas
->* Field: The space in the middle of the table between all players is referred to as the field. Players will place, fight over, and remove tiles from the field.
->* Supply: An area of the game that contains all components that are not currently in use.
->   * Tile stack: The shuffled stack of tiles which players draw from when placing new tiles. New tiles are drawn from the **bottom** of the stack.
->   * Construct supply: All constructs not currently in play reside in the construct supply. Unique constructs are immediately returned to the supply when a player loses control of them. When a player gains control of a unique construct, it is immediately placed in that player's pool.
->* Player board: Used by the player to identify which wizard they are playing, resolve their turn, and keep track of their game state. A player always controls his own board, and everything on it.
->   * Spells: All boards have a number of spells printed on them. There will be an aura that instructs you how to take your turn, a number of cantrips you can use to affect the game state and claim tiles, and likely several rituals you can use to boost the power of your wizard.
->   * Focus slots: Several spell slots on your board will have focus *(prototype: asterisk)* symbols in them. These are special "focus" spell slots. They become blocked by foci over the course of the game. Slots blocked by foci cannot be invoked, and constructs in slots that become blocked by a focus are immediately returned to your pool. When you are instructed to place a focus, you may take a focus from any slot on your board; that slot is now open and may be invoked normally.
->   * Pool: Any constructs not in use reside in your pool. Any time you are instructed to return a construct, return it to your pool unless instructed otherwise. Any time you are instructed to place a construct, remove a construct from your pool and place it. *(If your pool is empty, you may not place contructs from it).*
->   * Army: Constructs in your army can be used in battles. You will have game effects on your board that allow you to place contructs in your army.
->* Ether: A special zone that constructs exist in temporarily during a battle. After a battle, all surviving constructs are immediately returned to the armies of their controlling players.
+## SETUP
 
->Constructs
->* Constructs are represented as six-sided dice
->* Constructs can only exist in the supply, on player boards, in spell slots, and in the ether *(but only when in battle).*
->* Constructs have a "face" side *(prototype: C)*, and 5 other sides showing an assortment of icons.
->* A construct's currently displayed side is only relevant in battle, after being rolled.
->* Some constructs are "unique"; they have a name and there is only one die representing this construct in the supply. They can be acquired by controlling and claiming their corresponding tiles.
->* When an effect refers to "a construct," it normally means any construct. When an effect says to Gain a construct, you gain a basic construct unless otherwise specified by name.
+#### Player Areas
+1. Determine which player is first randomly.
+2. Starting with the first player and moving clockwise, each player takes a player board and the set of pillars matching its color.
+3. Each player chooses to play with the Aspirant (beginner) or Named (advanced) side of their board. *(For the first game, play with the Aspirant side. You should try earning your name.)*
+#### The Field
+4. In reverse player order, each player chooses a set of tiles.
+5. In player order, each player locates the core tile in their set and places it next to another tile on the field (the first player just places theirs in the middle).
+6. Shuffle the remaining tiles into a single stack and place them to the side of the field.
+#### The Supply
+7. Place all cubes and the battle dice to the side of the field.
+8. This isn't a step, it's time to battle.
 
->Foci
->* Foci are represented as wooden cylinders *(prototype: wooden cubes)* matching a player color.
->* Foci can only exist on tiles or on focus spell slots (see player board).
->* Placing foci allows players to control tiles and their spells, claim tiles, have increased power in battle, and have access to more spells on their player boards.
+## GAME STRUCTURE
+> Beginning with the first player, each player takes a full turn, then passes play to the player to the left (called **player order**). This continues until the game ends *(see HOW TO GET A NAME)*.
 
->Tiles
->* Sides: A tile has two sides. When placed, the placing player may choose which side to place face-up: only that side is active.
->* Adjacent: A tile is adjacent to any other tile with which it shares an edge.
->* Glyphs: A tile has 0 to 2 glyphs. These glyphs are used for making patterns on the field, and for forming sets in player areas.
->* Spells: A tile has one or more spells on each side. The player that controls a tile can invoke its spells, and benefits from any of its spell effects.
->* Locked: A tile is locked if removing it would break the field into two pieces. Locked tiles can **never** be moved or claimed.
->* A pattern of tiles is three tiles on the field, all adjacent to each other, that share a glyph.
->* A set of tiles is three tiles in a player's area, all sharing a glyph. After any tile is claimed, if the claiming player shows a full set in their player area, they win the game.
+## TURN STRUCTURE
+> When a player is taking their turn, they are known as the **active player**.
+> To take a turn, the active player executes the instructions on their player board, in order. Once all instructions are complete, the active player's turn is over.
 
->Spells
->* There are four types of spells - sorceries, cantrips, rituals, and auras.
->* Invoke: The action of placing a construct into a slot on a spell is called **invoking**. When instructed by the game to invoke, take a single construct from your pool and place it on any spell slot **you control**. Then, resolve any necessary effects.
->* **Sorceries** are powerful one-shot spells found only on tiles. A sorcery resolves immediately before the tile hosting it is claimed.
->* **Cantrips** represent the backbone of spells you will use. When you invoke a cantrip, you immediately resolve its effect.
->* **Rituals** are long-term game effects that stay in play as long as all spell slots on the ritual are full and any player controls the component the ritual is printed on. Whoever controls the printed component benefits from the effect of the ritual. 
->   * Dispelled: Whenever no one controls the ritual's host component, or all spell slots are not full, the ritual is dispelled; its effect ceases immediately.
->   * If, when a ritual is dispelled, control of a unique construct would be lost, that construct is immediately returned to the supply.
->* **Auras** are identical to Rituals for all purposes except that they do not have spell slots; as long as the host component is controlled the aura is active and benefiting the player controlling the component.
->* *(For the prototype version, Sorceries are denoted with an X at each corner, Cantrips with a square, Rituals with a circle, and Auras with a slash.)*
+> START OF TURN - Some game effects may reference *start of turn.* These effects resolve at the start of the active player's turn, *before any other instructions on the active player's board are executed*, in whichever order the active player desires. Any players with effects that resolve at the start of other players' turns resolve them in player order after the active player. Once all start of turn effects are resolved, play proceeds as normal; the active player begins executing the instructions on their player board.
 
->Control
-> * Components you control are referred to as **yours** *(ex: your tile, your focus, your construct)*.
->   * You always control all of your foci
->   * You control a tile on the field if you have any number of foci on it.
->   * You control your player board, every component on your player board, and all tiles in your player area
->   * You control all constructs on tiles you control
+> END OF TURN - Some game effects may reference *end of turn.* These effects resolve at the end of the active player's turn, *after all instructions on the active player's board are executed*, in whichever order the active player desires. Any players with effects that resolve at the end of other players' turns resolve them in player order after the active player. Once all end of turn effects are resolved, play proceeds as normal; the next player becomes the active player and begins their turn.
 
->Battle
->* When instructed to battle, follow these steps:
->1. **Choose Tile:** Choose a tile on the field with at least one enemy focus; this is the "contested tile" and the controlling player is the "defender". You are the "attacker".
->2. **Count Focus:** You and the defender count focus *(prototype: command)*. A player's focus is equal to the number of their foci on the contested tile and every adjacent tile, plus any of their bonuses to focus.
->3. **Deploy Constructs:** Each player chooses constructs up to their focus from their army, rolls them, and places them in the ether. Each player may reroll any dice of their choice up to the number of rerolls they have (default zero).
->4. **Before Battle Effects**: Starting with the attacker, players take turns resolving [B]efore battle effects. The active player choose a die with [B] effects showing, resolves each [B] effect on the side in an order of his choosing. Once fully resolved, set the die to the side in the ether to denote that its effects have been used. This die is still in the ether and battling for all intents and purposes.
->5. **Deal and Take Hits:** Each player brings all set aside dice in the ether back to the rest of his dice in the ether. Each player takes hits equal to their opponent's swords minus their shields. Each player returns constructs of their choice until they reach the number of hits they took, or as many as possible. If a player has remaining hits, they return their foci from the contested tile in the same way. *(ex: Matt, the attacker, has four dice in the ether. He is showing four swords. Emily, the defender, has two dice in the ether and three foci on the contested tile. She is showing one sword and one shield. After adding together hits and blocks, Matt must take one hit (Emily dealt 1 hit and Matt had no blocks) and Emily must take 3 hits (Matt dealt 4 hits and Emily had 1 block). Matt returns one of his constructs to his pool. Emily returns both of her constructs to her pool, but has one hit left to take. She returns one of her foci on the contested tile to a focus slot on her player board; she now has two foci remaining on the contested tile.)*
->6. **After Battle Effects:** Starting with the attacker, players take turns resolving [A]fter battle effects. The active player choose a die with [A] effects showing, resolves each [A] effect on the side in an order of his choosing. Once fully resolved, set the die to the side in the ether to denote that its effects have been used. This die is still in the ether and battling for all intents and purposes.
->7. **Return Surviors:** All remaining constructs in the ether are returned to their controlling players' armies.
+## GAME CONCEPTS
+#### Spells and Invocation
+Spells are the core mechanic with which a player interacts with the field and their player board. There are four types of spells, denoted with four different colors and border styles. 
+* **Sorceries** are denoted with a gold border, and are only present on tiles. These powerful spells only come into effect once per game, when the tile they belong to is claimed.
+> SORCERIES - Before a tile containing a sorcery is claimed, the active player resolves that sorcery's effects, then adds the tile to their player area as normal.
+* **Cantrips** are denoted with a silver border. These basic spells allow wizards to accomplish a huge variety of tasks, and come into effect every time they are invoked.
+> CANTRIPS - Cantrips only have an effect when they are **invoked**.
+* **Rituals** are denoted with a bronze border. These spells have lasting, positive effects that endure as long as they are fully invoked, and benefit all players that own them.
+> RITUALS - The effects of a ritual always benefit all players that own it, as long as it is **fully invoked**.
+* **Auras** are denoted with a black border. These passive spells bestow long-term effects just like rituals, but do not require invocation.
+> AURAS - The effects of an aura always benefit all players that own it.
 
->Legality 
->* Effects may specify legal targets for their resolution. When resolving an effect, only components that meet the requirements for the effect **and** all core game rules may be used to resolve the effect. 
->* *(ex: Player A wants to resolve an effect that says **Move a tile adjacent to an enemy tile**. He may choose any tile to move, unless it is **locked** (core game requirement). He may move it adjacent to any tile controlled by his opponent (effect requirement))*.
+Both cantrips and rituals have at least one **invocation slot**, denoted as empty squares. Players place their power cubes on invocation slots to invoke the spell the slots belong to.
+> INVOKE - When ordered to invoke, the active player chooses an empty invocation slot on a cantrip or ritual they own. The active player then places one cube from their pool on that invocation slot, and follows the correct instructions below: 
 
->Spell Effects
->* Move tile: Choose a legal, unlocked tile on the field and move it adjacent to any other legal tile, preserving all components on the tiles.
->* Swap tiles: Choose two legal tiles on the field and swap their positions, preserving all components on the tiles.
->* Flip tile: Choose a legal tile on the field and flip it to its other side, replacing all components on the tile on the new side. *(Constructs in ritual slots moved in this way may dispel or activate rituals, but constructs placed in cantrip slots **do not** activate those cantrips. Return any constructs that do not have slots, controller's choice)*.
->* Seal tile: Choose a legal tile in an opponents player area and instruct that player to slide it under their player board; any components on it are immediately returned and it is no longer considered to be in that player's player area until it is unsealed.
->* Claim tile: Choose an unlocked legal tile on the field and place it in your player area; immediately return all components on it. If claiming this tile completes a set in your player area, you win!
->* Place focus: Choose your focus on a focus slot and place it on any legal tile.
->* Return focus: Place the corresponding focus in any focus slot you control; if this slot is full immediately return the construct in this slot.
->* Control [UNIQUE CONSTRUCT]: Take the construct from wherever it currently resides and place it in your pool. You may use it as normal until this effect is dispelled.
->* Gain construct: Take the corresponding construct from the supply and place it in your pool.
->* Return counstruct: Take the corresponding construct from wherever it resides and place it in your pool *(or other area if specifically instructed).*
+> INVOKING A CANTRIP - The active player immediately resolves the effect of the cantrip, then play continues as normal.
 
->Dice Symbols and Effects
->* *(Dice can have multiple symbols on a single face; in this case resolve each in the order of your choosing when ordering is required)*
->* All symbols fall into one of three categories
->   * [B]efore battle actions: These are resolved before counting hits and blocks
->   * [A]fter battle actions: These are resolved after hits are taken, before constructs are returned to armies
->   * Hits and blocks: These are added up to determine how many hits players take
->* Dice effects may only be used *once* per effect resolution phase.
->* Sword - Adds 1 hit
->* Shield - Adds 1 block
->* Identity - [B] Set this die to any side, then *don't* set it to the side to denote it has been used; this die can be used again.
->* Hammer - [B] Choose an enemy die in the ether showing a shield; the enemy must return it *(Found on Gladiator)*
->* Fist - [A] Choose an enemy focus on or adjacent to the contested tile; the enemy must return it *(Found on Titan)*
->* Cycle - [B] Choose any die in the ether and reroll it *(Found on Fortuna)*
->* Star - [B] Choose a die from your army, roll it, and place it in the ether *(Found on Centurion)*
->* Reticle - [A] Choose a die in the enemy army; the enemy must return it *(Found on Longinus)*
->* Pillar - [A] Place a pillar on any tile *(Found on Faber)*
->* Mimic - [B+A] Choose a [B] or [A] symbol on any die in the ether matching the phase of the battle and treat this symbol as if it is that symbol, then resolve it. *(Found on Metis - When choosing a symbol, only [B] symbols may be chosen if the battle is in step 4, before battle effects, and only [A] symbols may be chosen if the battle is in step 6, after battle effects. Other Mimic sides may be chosen but effectively do nothing.)*
->* Spiral - [B] Choose an enemy die in the ether showing its Identity side and return it to its controller's pool *(Found on Circe)*
->* Spark - [A] Choose any die you control and return it *(Found on Haruspex)*
+> INVOKING A RITUAL - If there are no remaining empty invocation slots on the ritual, it is **fully invoked**; its effects now benefit all players that own it. If there are still remaining empty invocation slots, nothing happens. In either case, play continues as normal.
+
+There are a couple other invocation slot mechanics:
+> AUTO-RETURN SLOTS - These special invocation slots can appear on cantrips and are denoted by gold hashes at their corners. At the end of the active player's turn, after all end of turn effects are resolved, all power cubes in auto-return invocation slots owned by the active player are returned by the active player.
+
+> PILLAR SLOTS - These special invocation slots can appear on cantrips and rituals on player boards, and are denoted by a black circle around the slot. Game effects will require these slots to be filled by pillars, and whenever a player is ordered to return a pillar, they must return it to a pillar slot of their choice. Pillar slots containing pillars are considered blocked; they may not be invoked. Cubes in pillar slots that are being filled by a returning pillar are immediately returned by the player returning the pillar.
+
+#### Player Boards
+> PLAYER OWNERSHIP - A player *always* owns the following: 
+> * Their player board
+> * All spells on their player board
+> * All claimed tiles and spells on them in their player area
+> * All power cubes on their player board and on their claimed tiles
+> * All pillars matching their player color (regardless of where they are located)
+
+Each player board hosts a number of zones and spells, and these are different across each named wizard side. Some named wizards will have some types of zones and spells and others will not; named wizards will often have unique zones and spells with special mechanics. For details on these, refer to each named wizard's section in the rulebook.  
+
+Aspirant board sides are identical apart from color and always have the same two zones; the **pool** and the **fortress**. They also have a large aura describing their turn structure, a section containing a number of cantrips they may use on their turn, and a section containing a handful of rituals that provide them passive benefits when fully invoked. See the aspirant entry in the wizard's section in the rulebook for more details. 
+
+The **pool** and **fortress** are described below, as they appear on aspirant board sides and many named wizard board sides, along with **meditate**, an effect common to most wizards that typically allows them to sacrifice their turn to reorganize their power cubes.
+
+>POOL - The pool contains all a player's power cubes that are not currently in use. Whenever a player is ordered to invoke, they must place a cube from their pool to do so, and if they are out of cubes they may not take the invocation action. Whenenver a player **returns** a cube they own, the return it to their pool, unless otherwise specified.
+
+>FORTRESS - The fortress contains power cubes the player has committed for wizardly combat. They may not be used to invoke, and are commonly returned to a player's pool as they are destroyed in battle or during **meditation**.
+
+>MEDITATE - Most wizards have an effect labeled **meditate**. The exact details of the effect may vary from wizard to wizard, but any effects owned by the active player that occur before or after **meditation** trigger from the resolution of the active player's **meditate** effect. If the active player has no meditate effect, they cannot trigger abilities associated with it.
+
+#### The Field and Tiles
+The field is comprised of a dynamic assortment of tiles arranged around 2-4 **core** tiles. Tiles are **placed** from the stack adjacent to other tiles on the field, and are removed from the field and added to player areas when **claimed**. Typically, a player may only claim a tile when it is in a specific pattern, and they own all tiles in the pattern.
+
+>CORE TILES: There is one core tile per set, and therefore per player, in play at the start of the game. Core tiles are never owned, and cannot be claimed, removed, or manipulated in any way. Spells on core tiles are always owned by all players.
+
+>TILE TERMS:
+>* RUNES: Each set has 9 tiles with runes on them. Some tile sides may have two runes, while others have one. A tile side with two runes is considered to have both runes for purposes of claiming and for completing a winning set of three.
+>* WILD: Each set has three wild tiles. These tiles typically allow the claiming player to gain power cubes, and are identical on both sides. They also count as having every rune for purposes of claiming, but as having no runes for purposes of completing a winning set of three.
+>* ADJACENCY: A tile on the field is considered adjacent to any tile it shares at least one side with.
+>* OWNERSHIP: A tile on the field is owned by any player with at least one pillar on it. Spells and power cubes on tiles on the field are owned by all players that own the tile. A claimed tile in a player area is owned by that player.
+>* LOCKED: A tile on the field is considered locked if moving it from its position would leave any tiles without any other adjancent tiles. Locked tiles may never be claimed or moved, but they may be manipulated in other ways.
+>* OPEN: A tile on the field is considered open if no players have any pillars on it. Power cubes do not contribute to openness; only pillars.
+>* PATTERN: Tiles are considered to be in a pattern if they are arranged in the depicted postions and all share at least one matching rune.
+
+There are a number of game effects that manipulate tiles.
+>TILE-RELATED EFFECTS:
+>* VALIDITY: Effects may specify which tiles are valid for their resolution. These rules must be taken into account when manipulating tiles, as well as the rules below.
+>* MOVE: Only **unlocked** tiles on the field may be moved. To move a tile, take it from its current position and place it adjacent to another tile on the field.
+>* SWAP: Take two tiles from their current positions and place them in each others' positions.
+>* FLIP: The resolving player returns all power cubes on the tile, picks up all pillars on the tile, flips it to its other side, then replaces all the pillars on it.
+>* ROTATE: Choose three tiles adjacent to each other on the field and "rotate" their positions clockwise or counter-clockwise, such that they each occupy the former position of their neighbor in the direction of rotation.
+>* CLAIM: Only **unlocked** tiles on the field may be claimed. To claim a tile, the resolving player returns all power cubes on the tile, all pillars on the tile are returned, and then the resolving player takes the tile and places it in their player area. *(If that player then has a matching set of three tiles in their player area, that player wins the game.)*
+>* SEAL: Only **claimed** tiles can be sealed. When a tile is sealed, the player who owns it returns all power cubes and pillars on it and slides it partially underneath their player board. That player still owns that tile, but it is considered to have no runes or spells. When a tile is unsealed, slide it back out from underneath its owner's player board; it is now considered to have all its runes and spells once more.
+
+#### Battle
+Game effects may required the resolving player to battle. To resolve a battle, these steps must be followed, in order:
+>BATTLE  
+>The resolving player is the considered the **attacker**.
+>1. The attacker chooses a tile on the field owned by any other player, and one of the players that owns it. That tile is considered the **battleground**, the chosen player is considered the **defender**, and both players are considered **combatants**.
+>2. Each combatant counts all the pillars they own on and adjacent to the battleground. This value is considered the combatant's **strength**.
+>3. Each combatant takes power cubes from their fortresses and place them in front of their player boards up to their respective strength *(as many as possible - if a combatant has fewer cubes in their fortress than their power, they place all their cubes in front of their player board.)*
+>4. The attacker takes a number of battle dice equal to the number of cubes they placed in front of their player board, and rolls them. If they have any rerolls, they may reroll any dice of their choice as many times as they have rerolls.
+>5. The attacker returns cubes from the front of their player board up to the number of clashes rolled *(as many as possible)*. The defender returns cubes from the front of their player board up to the number of swords and clashes rolled *(as many as possible).* For each cube the defender could not return, they return a pillar from the battleground instead *(as many as possible).*
+>6. Each player returns any cubes remaining in front of their player boards to their respective *fortresses* - not their pools.
+
