@@ -1,0 +1,100 @@
+Players in order: Andre, Casey, Gen, Kate
+Blind playtest
+
+top tile for stack?
+tiles and player board answered a ton of questions right off the bat - anatomies and examples are *critical*
+add phrasing for gain power and power effects section
+rephrase "ordered to"
+phrasing for your means own
+add pillar effects section
+Gen is a fucking genius
+fix rituals on player mats
+andre and casey didn't know what to do their first turn
+explain placing cubes in army and optionally battling
+battle action not intuitive at all
+explain importance of having cubes in battle
+work on verbiage around power in battle vs out
+core tiles are not open
+pillars on pillar slots counting towards power in battle - maybe they should?
+Gen likes the victory condition being its own puzzle
+clarify that when a pillar is not in a pillar slot, the slot can be invoked
+Austin needs to shut up in life
+Rewrite rules on locking - missed edge cases?
+**Core tiles - 4 probably not needed, 1 for 2, 2 for 3-4? - huge problem, actually game breaking
+open tiles feel hard to come by
+maybe don't need to block ritual slots off on the player board? they aren't getting understood
+turns seem really slow, due to deliberation
+meditation leaving your vulnerable is a cool mechanic according to Gen
+work on verbiage for adjacent to second tile in any position tile
+fix player board verbiage on up to 3, optionally battle
+your tiles with matching runes is too restrictive? even with auto return slots
+EMILY IS AWESOME: When your players expect may to be present, it's hard for them to adjust
+move a tile adjacent to another space to adjacent tile is horribly worded but fan favorite tile? (A from set 3)
+B+C 1 is a terrrible ability that does nothing unless its claimed
+Gen wins
+
+Initial impressions
+Rules are daunting but the game is incredibly engaging
+Too many core tiles, lead to too much isolation
+Powerful tiles are fine as long as they can be contested
+make hostility more important
+cheating is possible with flipping tiles if no one notices - could collect rune tokens to determine your sets?
+kate: game feels component heavy
+casey: pillar slots don't affect decisions enough
+Gen: no one took pillars from rituals - might be because of pockets of isolation or separation
+is there a layer of depth added to blocking slots? maybe just a reserve?
+maybe auto-recall shouldn't be a thing?
+more enticing to use rituals without investing rituals
+not much battling occurred
+andre had no incentive to move out of his corner
+maybe place victory points on tiles claimed instead of taking them to score area? use another piece for claimed tiles
+
+Did you have fun?
+feeling out which tiles to work with should have formed alliances
+how can i use these tiles to make someone else not win?
+gen spent a lot of time thinking about how people could fuck up her win
+maybe some steamrolling is occurring - it is
+
+How do they feel about first turn being mostly fixed, and options opening up fast?
+first turn feels like setup chapter 2
+
+How do they feel about no hidden information?
+gen, andre loves its
+tiles really need to stay out
+transparency increases strategic feel
+think about your next move when it comes to you is good
+
+Is the triangle of death good?
+yes with the other changes - 1 core tile, claimed tiles stay on board
+
+Are turns snappy once the rules are understood?
+unanimous yes
+waiting can suck
+4 player cap seems good
+
+Is the verb Return good?
+return feels like only for invoked stuff
+return is nebulous in general
+
+How does being the player at the end of a consecutive meditate chain feel?
+felt productive
+
+How do battle dice feel, not enough hits? (1 blank, 3 clash, 2 hit?)
+yes across the board
+burden of information on understanding battle rules
+
+Is there enough tile manipulation? too much? just right?
+tile manip was the most fun
+open things are bad ofc
+experiment with manipulation after the rule changes
+
+Is place only on your tile or open tile too restrictive for aspirant?
+Big no
+
+Quote of the game: Casey - "Are you still on your turn?"
+
+Does multiple ownership feel good?
+multiple ownership may not add anything to the game?
+
+most of the rituals not great?
+Duchess Cordova?

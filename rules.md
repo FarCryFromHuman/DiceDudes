@@ -117,6 +117,7 @@ The field is comprised of a dynamic assortment of tiles arranged around 2-4 **co
 There are a number of game effects that manipulate tiles.
 >TILE-RELATED EFFECTS:
 >* VALIDITY: Effects may specify which tiles are valid for their resolution. These rules must be taken into account when manipulating tiles, as well as the rules below.
+>* PLACE: Draw a tile from the bottom of the stack, choose a side, and place it adjacent to any tile on the field.
 >* MOVE: Only **unlocked** tiles on the field may be moved. To move a tile, take it from its current position and place it adjacent to another tile on the field.
 >* SWAP: Take two tiles from their current positions and place them in each others' positions.
 >* FLIP: The resolving player returns all power cubes on the tile, picks up all pillars on the tile, flips it to its other side, then replaces all the pillars on it.
