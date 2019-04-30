@@ -34,7 +34,7 @@ In long form, each player is looking to claim a set of three tiles with matching
 2. Starting with the first player and moving clockwise, each player takes a player board and the set of pillars matching its color.
 3. Each player chooses to play with the Aspirant (beginner) or Named (advanced) side of their board. *(For the first game, play with the Aspirant side. You should try earning your name.)*
 #### The Field
-4. Place the core tile in the middle of the field.
+4. The last player chooses a core tile and places it in the middle of the field.
 5. In reverse player order, each player chooses a set of tiles.
 6. Shuffle the chosen sets into a single stack and place them to the side of the field.
 #### The Supply
@@ -123,7 +123,7 @@ The **pool**, **fortress** and **ether** are described below, as they appear on 
 #### The Field and Tiles
 The field is comprised of a dynamic assortment of tiles arranged around 2-4 **core** tiles. Tiles are **placed** from the stack adjacent to other tiles on the field, and are removed from the field and added to player areas when **claimed**. Typically, a player may only claim a tile when it is in a specific pattern, and they own all tiles in the pattern.
 
->CORE TILES: There is one core tile per set, and therefore per player, in play at the start of the game. Core tiles are never owned, and cannot be claimed, removed, or manipulated in any way. Spells on core tiles are always owned by all players.
+>CORE TILES: There is one core tile per set, and one will be placed into play at the start of the game to create the field. Core tiles are never owned, and cannot be claimed, removed, or manipulated in any way. Spells on core tiles are always owned by all players.
 
 ![Tile Anatomy](https://imgur.com/e4VRGiN.png)
 
