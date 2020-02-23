@@ -1,0 +1,78 @@
+Players in order: Casey, Andre, Reed
+Only Reed is new - casey and andre will teach him the game
+
+no problems with pillar quantities, player color selection
+reed immediately noted that the cube colors don't matter
+note in rules not to shuffle core tiles and put one core tile on top of stack
+jumped immediately into playing after setup - make note for first player being experienced?
+make note on player boards - place 10 pillars in your pool instead of put them in slots
+still need to fix rules around battling and cantrip on player boards
+allow player board recruit action to be "up to"
+reed confused about meditating and auto-return slots the first time, thought he needed to return his power from his auto-return slots because he was meditating at the end of his turn
+clear up language around strength and power in battle
+B<->A+C IV allows you to battle remotely - is that fine?
+**NOT INTUITIVE** wilds only count for patterns, not for any other effects - clarify
+note that meditate unseals your tiles
++1 strength on player boards offers remote battling - non obvious but is that good? should that be available?
+occupy instead of own? need something more neutral than own
++1 str on player boards should lock a pillar or cost 2 power - probably cost 2 power
+give up on having art on tiles, not enough room for mechanics
+auto-return slots war with invoked tile effects - fine but keep an eye on it
+make the first move own tile slot on aspirant board returnable
+should place tile on aspirant board place a pillar automatically? happens every move anyway
+A+C<->B III - can break the layout of the board, needs to specify unlocked in some way; add REMOVE keyword?
+final ritual on aspirant board (gain 1 power if you have no tiles on field) is bad, basically never triggers, +1 power when meditate?
+wildcards in set II should be your invoked tiles?
+matching rune tiles - note when they count themselves
+write MATCHING in the tile rules
+reroll might not be worthwhile?
+game might need a way to push to the end -- can drag out
+fortress needs a way to scale faster mid to late game - maybe eliminate fortress?
+aspirant board should be place up to 6 or place 3 and battle? - needs to be a way to dump more guys into fortress
+REED WINS
+
+overall thoughts
+one core is great
+one person will get pushed into drawing tiles
+paying to move a pillar on aspirant board?
+sealed too ambiguous?
+
+
+Did you have fun
+provoking battles makes more fun
+
+Does it feel like 3 invokes is just right or too few?
+just right
+
+How do the pillars feel visually as a power mechanic
+feels intuitive
+works out across area control and fortifying opponents
+
+Is the cold war around building board state after the first score fun and engaging?
+yes
+
+
+Reed: do battle rules feel intuitive
+getting more power cubes was harder
+veteran player explanation helps
+naming it the fortess is good
+
+Reed: what does the game need?
+combat rules for returning cubes could be clearer
+
+Do pools feel too noisy with both pillars and power?
+andre says yes
+separate it from the pool
+
+Should I penalize players less for scoring wildcard tiles?
+yes, probably return an invoke
+
+Are several colors for power cubes fun?
+doesn't matter at all, might be dull to have just one?
+
+Should there be more effects that allow you to "battle remotely"
+seems good the way it is
+more of these effects would encourage battling
+
+Should the game push players towards the end?
+mechanic that deconstructs the board when you run out of tiles?
