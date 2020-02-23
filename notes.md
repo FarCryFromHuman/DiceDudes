@@ -19,7 +19,7 @@ New version dump inc:
 
 - A deck of cards from which a market is stocked (probably players + 1 in size?)
 - Players can buy cards to activate them immediately, as one of their actions on their turn
-- To buy a card, a player drops power on each card in front of it in line, resolves and keeps the card, then slides the market down and restocks
+- To buy a card, a player drops power on each card in front of it in line, takes any power on the card, resolves and keeps the card, then slides the market down and restocks
 - Market cards have a few unique effects:
   - Scoring: the card will depict a pattern of tiles, and have a point value attached. when a player buys a scoring card, he must own tiles matching the pattern on the card (in any rotation). He chooses a tile belonging to the pattern to remove from the board, takes all power on the tile, returns all pillars on the tile, and discards it from the board
   - Attacking: the card will depict a pattern of attacking tiles and target tiles. when a player buys an attack card, he must have pillars on tiles matching the pattern of the attacking tiles on the card (in any rotation). He then chooses up to one pillar on each tile matching the configuration of the target tiles and returns it. If no pillars remain on an attacked tile, he may optionally take all power from the tile as well. If there is no target tile on the board in one or more positions in the pattern, ignore those tiles for attack resolution.
@@ -31,11 +31,12 @@ New version dump inc:
 # Player turns
 
 - On his turn, a player chooses to meditate or take actions
-- If he meditates, he can take any amount of power from any tiles he has pillars on
+- If he meditates, he can take any amount of power from any tiles he has pillars on (at the start of his next turn? This way it clears the spaces for him and not a whole round of opponent turns)
 - Then, if he doesn't have 10 power, he takes power from the stock until he does
 - If he takes actions, he can do 3, from the following list:
   - Invoke: place a power cube on a tile he has a pillar on, and resolve the effect on the tile
   - Buy card: buy a card, as above
+- Other design thought: buying cards never takes actions, and you can buy cards and invoke 3x.. probably makes turns too swingy and hard to keep track of though
 
 # Game end
 
